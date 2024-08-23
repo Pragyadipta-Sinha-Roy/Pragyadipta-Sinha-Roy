@@ -1,5 +1,9 @@
-## Hi there 👋
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Folks!+👋;+I'm+Pragyadipta!;" />
+</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Passionate+AI-ML+Developer;" />
+</h1>
 <!--
 **Pragyadipta-Sinha-Roy/Pragyadipta-Sinha-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
