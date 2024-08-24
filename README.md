@@ -5,13 +5,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Pragyadipta!;" />
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI-ML+Developer and Enthusiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI-ML+Developer+&+Enthusiast;" />
 </h1>
 <h1 align='center'>Skills:</h1>
   <p align="center">
   <img align="center" src="https://skillicons.dev/icons?i=git,github,c,cpp,css,html,java,tensorflow,pytorch,vscode,python,mysql,discord,opencv,sklearn" alt="Skills">
   <br>
 </p>
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently a 2nd year CSE Student at KIIT University
+- 🔭 I’m currently learning and working on Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI
 <!--
 **Pragyadipta-Sinha-Roy/Pragyadipta-Sinha-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
