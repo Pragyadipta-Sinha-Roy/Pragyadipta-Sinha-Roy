@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Pragyadipta!;" />
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=AI-ML+Developer+&+Enthusiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=510&height=70&duration=4000&lines=AI-ML+Developer+and+Enthusiast;" />
 </h1>
 <h1 align='center'>Skills:</h1>
   <p align="center">
