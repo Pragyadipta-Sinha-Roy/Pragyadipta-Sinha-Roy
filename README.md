@@ -1,20 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+Folks!+👋;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=6000&pause=4000&color=00F7BB&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi+Folks!" alt="Typing SVG" /></a>
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=I'm+Pragyadipta!;" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=6000&pause=4000&color=00F7BB&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=I'm+Pragyadipta" alt="Typing SVG" /></a>
 </h1>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=540&height=70&duration=10000&lines=AI-ML+Developer+and+Enthusiast;" />
-</h1>
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&duration=6000&pause=4000&color=00F7BB&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=Hi+Folks!" alt="Typing SVG" /></a>
-</h1>
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&duration=6000&pause=4000&color=00F7BB&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=I'm+Pragyadipta" alt="Typing SVG" /></a>
-</h1>
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&duration=6000&pause=4000&color=00F7BB&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=AI-ML+Developer+and+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&size=30&duration=6000&pause=4000&color=00F7BB&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=AI-ML+Developer+and+Enthusiast" alt="Typing SVG" /></a>
 </h1>
 ## About Me :
 </br>
