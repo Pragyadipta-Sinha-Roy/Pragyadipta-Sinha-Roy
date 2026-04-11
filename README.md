@@ -23,7 +23,7 @@
 </br>
 <h1 align='center'>Skills:</h1>
   <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=git,github,c,cpp,css,html,java,tensorflow,pytorch,vscode,python,mysql,discord,opencv,sklearn" alt="Skills">
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,c,cpp,css,html,java,tensorflow,pytorch,vscode,python,mysql,discord,opencv,sklearn,springboot" alt="Skills">
   <br>
 </p>
 <!--
